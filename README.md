@@ -1,4 +1,9 @@
- I'm User Experience Designer & Front-End Developer. | <a href="https://mrdoker1.github.io/rsschool-cv/">CV</a>
+<h1><img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" width="30"/> Hey! Nice to see you.</h1>
+
+<p>
+  <b>
+    <h3>Welcome to my page!</h3>
+    I'm User Experience Designer & Front-End Developer. | <a href="https://mrdoker1.github.io/rsschool-cv/">CV</a>
   </b>
   <h4>Things I code with</h4>
 <p>
