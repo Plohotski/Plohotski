@@ -17,7 +17,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
- 
+[![codewars](https://www.codewars.com/users/Plohotski/badges/large)](https://www.codewars.com/users/Plohotski)
 
 :star: Projects that I'm working on:
 - [1 Project]()
@@ -31,7 +31,6 @@
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Mrdoker1">
 <img src="https://github-profile-trophy.vercel.app/?username=Mrdoker1">
 </details>
-[![codewars](https://www.codewars.com/users/Plohotski/badges/large)](https://www.codewars.com/users/Plohotski)
 Feel free to contact me:
 <br><br>
 [<img src="https://img.shields.io/badge/Telegram-plakhotski-28a8ea">](https://t.me/isPlokhotskiy)
