@@ -19,7 +19,7 @@
 </p>
 
 :star: Projects that I'm working on:
-- [RS Lang](https://github.com/Mrdoker1/rslang)
+- [RS Lang]()
 
 :heavy_check_mark: Recent Projects
 - [Do Jewerly](https://github.com/Mrdoker1/dojewerly)
