@@ -26,6 +26,7 @@
 - [4 Project]()
 
 <details>
+ [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Plohotski) 
 <summary>:trophy: Github Stats</summary>
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Mrdoker1">
 <img src="https://github-profile-trophy.vercel.app/?username=Mrdoker1">
@@ -36,4 +37,3 @@ Feel free to contact me:
 [<img src="https://img.shields.io/badge/Telegram-plakhotski-28a8ea">](https://t.me/isPlokhotskiy)
 [<img src="https://img.shields.io/badge/Linkedin-plakhotski-informational">](https://www.linkedin.com/in/plakhotski/)
 [<img src="https://img.shields.io/badge/Email-plakhotski-orange">](mailto:plohoc@gmail.com)
-[<img src="https://img.shields.io/badge/Email-mdreg-orange">](mailto:fixrapdok@gmail.com)
