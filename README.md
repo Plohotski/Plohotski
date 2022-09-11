@@ -5,6 +5,7 @@
     <h3>Welcome to my page!</h3>
     I'm Front-End Developer. | <a href="https:#">CV</a>
   </b>
+  [![codewars](https://www.codewars.com/users/Plohotski/badges/large)](https://www.codewars.com/users/Plohotski) 
   <h4>Things I code with</h4>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -24,8 +25,6 @@
 - [3 Project]()
 - [3 Project]()
 - [4 Project]()
-
-[![codewars](https://www.codewars.com/users/Plohotski/badges/large)](https://www.codewars.com/users/Plohotski) 
 
 <details> 
 <summary>:trophy: Github Stats</summary>
