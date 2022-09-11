@@ -34,5 +34,5 @@
 Feel free to contact me:
 <br><br>
 [<img src="https://img.shields.io/badge/Telegram-plakhotski-28a8ea">](https://t.me/isPlokhotskiy)
-[<img src="https://img.shields.io/badge/Linkedin-kubic-informational">](www.linkedin.com/in/plakhotski)
-[<img src="https://img.shields.io/badge/Email-mdreg-orange">](plohoc@gmail.com)
+[<img src="https://img.shields.io/badge/Linkedin-plakhotski-informational">](www.linkedin.com/in/plakhotski)
+[<img src="https://img.shields.io/badge/Email-plohoc@gmail.com">](plohoc@gmail.com)
