@@ -3,7 +3,7 @@
 <p>
   <b>
     <h3>Welcome to my page!</h3>
-    I'm User Experience Designer & Front-End Developer. | <a href="https://mrdoker1.github.io/rsschool-cv/">CV</a>
+    I'm Front-End Developer. | <a href="https:#">CV</a>
   </b>
   <h4>Things I code with</h4>
 <p>
@@ -22,6 +22,8 @@
 - [1 Project]()
 - [2 Project]()
 - [3 Project]()
+- [3 Project]()
+- [4 Project]()
 
 <details>
 <summary>:trophy: Github Stats</summary>
@@ -31,7 +33,6 @@
 
 Feel free to contact me:
 <br><br>
-[<img src="https://img.shields.io/badge/Telegram-mdreg_by-28a8ea">](https://t.me/mdreg_by)
-[<img src="https://img.shields.io/badge/Linkedin-kubic-informational">](https://linkedin.com/in/kubic)
-[<img src="https://img.shields.io/badge/Email-mdreg-orange">](mailto:fixrapdok@gmail.com)
-[<img src="https://img.shields.io/badge/Portfolio-mdreg-success">](https://mrdoker1.github.io/portfolio/?path=main)
+[<img src="https://img.shields.io/badge/Telegram-mdreg_by-28a8ea">](https://t.me/isPlokhotskiy)
+[<img src="https://img.shields.io/badge/Linkedin-kubic-informational">](www.linkedin.com/in/plakhotski)
+[<img src="https://img.shields.io/badge/Email-mdreg-orange">](plohoc@gmail.com)
