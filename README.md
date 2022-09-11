@@ -26,8 +26,8 @@
 
 <details>
 <summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Mrdoker1">
-<img src="https://github-profile-trophy.vercel.app/?username=Mrdoker1">
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Plohotski">
+<img src="https://github-profile-trophy.vercel.app/?username=Plohotski">
 </details>
 
 Feel free to contact me:
