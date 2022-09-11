@@ -5,6 +5,7 @@
     <h3>Welcome to my page!</h3>
     I'm Front-End Developer. | <a href="https:#">CV</a>
   </b>
+   <h4>Things I code with</h4>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -16,8 +17,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-  <h4>Things I code with</h4>
-[![codewars](https://www.codewars.com/users/Plohotski/badges/large)](https://www.codewars.com/users/Plohotski) 
+ 
 
 :star: Projects that I'm working on:
 - [1 Project]()
@@ -31,7 +31,7 @@
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Mrdoker1">
 <img src="https://github-profile-trophy.vercel.app/?username=Mrdoker1">
 </details>
-
+[![codewars](https://www.codewars.com/users/Plohotski/badges/large)](https://www.codewars.com/users/Plohotski)
 Feel free to contact me:
 <br><br>
 [<img src="https://img.shields.io/badge/Telegram-plakhotski-28a8ea">](https://t.me/isPlokhotskiy)
