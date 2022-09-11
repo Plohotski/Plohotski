@@ -1,11 +1,10 @@
 <h1><img src="https://camo.githubusercontent.com/8653492b3ab0c46cc580ad293f0555880ecf8ac82f0a761f17af1335e85e4de6/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966" width="30"/> Hey! Nice to see you.</h1>
-
 <p>
   <b>
     <h3>Welcome to my page!</h3>
-    I'm Front-End Developer. | <a href="https:#">CV</a>
+    I'm Front-End Developer. | <a href="#">CV</a>
   </b>
-   <h4>Things I code with</h4>
+  <h4>Things I code with</h4>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -25,18 +24,14 @@
 - [3 Project]()
 - [4 Project]()
 
-<details> 
+<details>
 <summary>:trophy: Github Stats</summary>
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Mrdoker1">
 <img src="https://github-profile-trophy.vercel.app/?username=Mrdoker1">
 </details>
+
 Feel free to contact me:
 <br><br>
-[<img src="https://img.shields.io/badge/Telegram-mdreg_by-28a8ea">](https://t.me/mdreg_by)
-[<img src="https://img.shields.io/badge/Linkedin-kubic-informational">](https://linkedin.com/in/kubic)
-[<img src="https://img.shields.io/badge/Email-mdreg-orange">](mailto:fixrapdok@gmail.com)
-[<img src="https://img.shields.io/badge/Portfolio-mdreg-success">](https://mrdoker1.github.io/portfolio/?path=main)
-
 [<img src="https://img.shields.io/badge/Telegram-plakhotski-28a8ea">](https://t.me/isPlokhotskiy)
 [<img src="https://img.shields.io/badge/Linkedin-plakhotski-informational">](https://www.linkedin.com/in/plakhotski/)
-[<img src="https://img.shields.io/badge/Email-plakhotski-orange">](mailto:plohoc@gmail.com)
+[<img src="https://img.shields.io/badge/Email-plohoc@gmail-orange">](mailto:plohoc@gmail.com)
