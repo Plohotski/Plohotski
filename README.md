@@ -19,9 +19,9 @@
 </p>
 
 :star: Projects that I'm working on:
-- [RS Lang]()
-- [Do Jewerly](https://github.com/Mrdoker1/dojewerly)
-- [Figma Pattern Creator Plugin](https://www.figma.com/community/plugin/1062828640232861563/Pattern-Creator)
+- [1 Project]()
+- [2 Project]()
+- [3 Project]()
 
 <details>
 <summary>:trophy: Github Stats</summary>
