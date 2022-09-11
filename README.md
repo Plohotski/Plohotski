@@ -17,7 +17,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-[![codewars](https://www.codewars.com/users/Plohotski/badges/large)](https://www.codewars.com/users/Plohotski)
 
 :star: Projects that I'm working on:
 - [1 Project]()
