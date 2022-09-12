@@ -25,7 +25,7 @@
 - [4 Project]()
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plohotski&layout=compact)](https://github.com/Plohotski/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hodgef&layout=compact)](https://github.com/hodgef/github-readme-stats)
 
 <details>
 <summary>:trophy: Github Stats</summary>
