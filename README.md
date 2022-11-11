@@ -21,8 +21,8 @@
 - [1 Project](https://github.com/Plohotski/Spotify-Music-App/blob/main/README.md)
 - [2 Project](https://github.com/Plohotski/RSS-Virtual-Keyboard)
 - [3 Project](https://github.com/Plohotski/image-galery)
-- [3 Project](https://github.com/Plohotski/cssMemSlider)
-- [4 Project](https://github.com/Plohotski/photographer-s-portfolio)
+- [4 Project](https://github.com/Plohotski/cssMemSlider)
+- [5 Project](https://github.com/Plohotski/photographer-s-portfolio)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hodgef&layout=compact)](https://github.com/hodgef/github-readme-stats)
